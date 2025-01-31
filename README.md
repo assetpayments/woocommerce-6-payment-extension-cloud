@@ -1,4 +1,4 @@
-## woocommerce-6-payment-module
+## woocommerce-6-payment-module-cloud-version
 
 ### Installation
 
